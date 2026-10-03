@@ -3,6 +3,7 @@
 An Obsidian plugin that lets you declutter your workspace by hiding ribbon buttons (on the left sidebar) with a simple right-click.
 
 Created by [Lucy Roh](https://github.com/lucytheboss).
+If you liked it, [![BuyMeACoffee](https://raw.githubusercontent.com/pachadotdev/buymeacoffee-badges/main/bmc-yellow.svg)](https://buymeacoffee.com/jiwooroh)
 
 ## Requirements
 
